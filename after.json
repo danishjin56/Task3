@@ -1,0 +1,68 @@
+{
+  "tests": [
+    {
+      "name": "test_natural_sort_key",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_slugify",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_apply_operations",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_resolve_target_paths",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_preview_renames",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_execute_renames_and_rollback",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_undo_renames",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_execute_renames_collision_with_existing",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_load_recipe",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_interactive_rename",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_main_invalid_args",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_main_undo_dispatch",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_select_files",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_execute_renames_drift_detection",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_undo_renames_partial_failure",
+      "status": "PASSED"
+    },
+    {
+      "name": "test_interactive_rename_reprompt",
+      "status": "PASSED"
+    }
+  ]
+}
